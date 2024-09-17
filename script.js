@@ -31,16 +31,11 @@ console.log(`My favorite pet is ${pet} and my favorite dessert is ${dessert}`);
 
 let num = 20;
 console.log(`My number is ${num}`);
-num += 2;
-console.log(`Addition: ${num}`);
-num -=2;
-console.log(`Subtraction: ${num}`);
-num *=3;
-console.log(`Multiply by 3: ${num}`);
-num /=7;
-console.log(`Divided by 7: ${num}`);
-num %=2;
-console.log(`Remainder by 2: ${num}`);
+console.log(`Addition: ${num + 2}`);
+console.log(`Subtraction: ${num - 2}`);
+console.log(`Multiply by 3: ${num * 3}`);
+console.log(`Divided by 7: ${num / 7}`);
+console.log(`Remainder by 2: ${num % 2}`);
 
 
 /*
