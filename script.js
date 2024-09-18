@@ -14,9 +14,10 @@ console.log(`my favorite song is ${myFavoriteSong}`);
  * Create 3 variables using let and const, then console.log each of them, using a string literal (` ${} `} in the log
  */
 
-let pet = 'dog';
+let animal = 'dog';
+let petName = 'fluffy';
 const dessert = 'apple pie';
-console.log(`My favorite pet is ${pet} and my favorite dessert is ${dessert}`);
+console.log(`My ${pet}'s name is ${petName} and their favorite dessert is ${dessert}`);
 
 /*
  * Prompt 3:
