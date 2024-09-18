@@ -5,7 +5,7 @@
  * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
 
-let myFavoriteSong = "Apple Bottom Jeans";
+let myFavoriteSong = "Apple Bottom Jeanss";
 console.log(`my favorite song is ${myFavoriteSong}`);
 
 /*
